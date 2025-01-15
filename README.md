@@ -15,14 +15,14 @@ El proyecto se desarrolló utilizando las siguientes tecnologías y metodología
 
 ## Despliegue
 Puedes acceder al proyecto en la siguiente página:
-[MaquetacionFlex_Practica01](https://github.com/Juanies/MaquetacionFLEX_Practica01c/)
+[MaquetacionFlex_Practica01](https://github.com/Juanies/MaquetacionGRID_Practica01)
 
 ## Construido con
 - HTML5
 - CSS3 (Grid)
 
 ## Versionado
-Este proyecto utiliza un esquema de versionado **SemVer** para el control de versiones. Puedes encontrar las versiones disponibles en [repositorio de GitHub](https://github.com/Juanies/MaquetacionFLEX_Practica01c/).
+Este proyecto utiliza un esquema de versionado **SemVer** para el control de versiones. Puedes encontrar las versiones disponibles en [repositorio de GitHub](https://github.com/Juanies/MaquetacionGRID_Practica01).
 
 ## Autores
 - **Juan Romero Viudez** - Desarrollo y diseño principal.
