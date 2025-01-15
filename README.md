@@ -15,7 +15,7 @@ El proyecto se desarrolló utilizando las siguientes tecnologías y metodología
 
 ## Despliegue
 Puedes acceder al proyecto en la siguiente página:
-[MaquetacionFlex_Practica01](https://github.com/Juanies/MaquetacionGRID_Practica01)
+[MaquetacionGrid_Practica01](https://github.com/Juanies/MaquetacionGRID_Practica01)
 
 ## Construido con
 - HTML5
